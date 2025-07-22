@@ -1,0 +1,47 @@
+[
+  {
+    "total_return_pct": 729.8758569725373,
+    "annualized_return_pct": 778.4546148503388,
+    "sharpe_ratio": 0.4428726293806279,
+    "win_rate_pct": 45.83333333333333,
+    "profit_factor": 3.277894634477664,
+    "max_drawdown_pct": -12.28933179144198,
+    "final_balance_usdt": 481.3279970440717
+  },
+  {
+    "total_return_pct": 562.4961929047488,
+    "annualized_return_pct": 576.4480651706941,
+    "sharpe_ratio": 0.20590159695749366,
+    "win_rate_pct": 27.75330396475771,
+    "profit_factor": 2.493765687258159,
+    "max_drawdown_pct": -30.037300465011253,
+    "final_balance_usdt": 384.2477918847543
+  },
+  {
+    "total_return_pct": -40.93168026925784,
+    "annualized_return_pct": -41.454904574276185,
+    "sharpe_ratio": 0.09651417624746031,
+    "win_rate_pct": 11.666666666666666,
+    "profit_factor": 0.6698383457537791,
+    "max_drawdown_pct": -72.45768197270901,
+    "final_balance_usdt": 34.25962544383045
+  },
+  {
+    "total_return_pct": 824.5075960300968,
+    "annualized_return_pct": 876.1118418460152,
+    "sharpe_ratio": 0.2969343843974568,
+    "win_rate_pct": 51.32743362831859,
+    "profit_factor": 2.6813732132976686,
+    "max_drawdown_pct": -14.5125416273356,
+    "final_balance_usdt": 536.2144056974561
+  },
+  {
+    "total_return_pct": 158.74542869683142,
+    "annualized_return_pct": 159.79091008414693,
+    "sharpe_ratio": 0.09194546420839175,
+    "win_rate_pct": 7.38255033557047,
+    "profit_factor": 1.7614981832509848,
+    "max_drawdown_pct": -33.201586278142486,
+    "final_balance_usdt": 150.07234864416222
+  }
+]

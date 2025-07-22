@@ -1,0 +1,2 @@
+data/BTCUSDT_1m_5year.csv filter=lfs diff=lfs merge=lfs -text
+data/ETHUSDT_1m_5year.csv filter=lfs diff=lfs merge=lfs -text
