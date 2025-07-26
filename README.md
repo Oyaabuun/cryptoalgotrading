@@ -24,14 +24,4 @@ Now few things to consider real deployment will have slippage dynamic, partial o
 
 Its not really practical as there is price difference at any give point of time if you observer the charts and volume also is not similar to live markets. so rather a live like csv loading simulator is better with dynamic slippage functions i feel .If anyone knows about platforms which give real simulation of volumes and prices in futures BTC/USDT PERP or ETH/USDT data please suggest in comments . checkout the output (for bayesian models params results) and output_hist_sim(xgboost) params performance for xgboost run ml_way3.py to generate params , ML_WAY3_BACKTEST.py to generate metrcies and trade and use the last cell of the ml_way.ipynb to see the performance for bayesian use ml_way4_optuna.py use this to generate top_optuna_combos_filtered.csv and use the params to backtest testnet_run4_optuna_backtest_py #algotrading#crypto
 
-
-Upvote
-5
-
-Downvote
-
-4
-Go to comments
-
-
-Share
+You can reach out to me on my telegram : aroy@52
